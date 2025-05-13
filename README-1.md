@@ -25,7 +25,7 @@ This project aims to classify emotions (e.g., happy, sad, angry, fear) from soci
    ```
 
 ## Team Members
-- **Abrar Ahamed** – Team Lead, Preprocessing, Deployment
-- **J Abdulla** – EDA, Feature Engineering
-- **Abdul Rahman** – Model Building (ML & DL)
-- **Abijith** – Evaluation, Documentation & UI
+- **K Thaslima Sulthana** – Team Lead, Preprocessing, Deployment
+- **M Pooja** – EDA, Feature Engineering
+- **S Safeya Sherien** – Model Building (ML & DL)
+- **P Srimathi** – Evaluation, Documentation & UI
